@@ -6,6 +6,7 @@ public class PrimeiClasse {
 		
 		System.out.println("meu primeiro progrma em java");
 		System.out.println("java é orientado a objeto");
+/* ggggggg*/
 
 	}
 
